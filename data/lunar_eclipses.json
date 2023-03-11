@@ -1,0 +1,178 @@
+[
+    {
+      "date": "2021 may 26",
+      "greatest_td": "11:19:53",
+      "type": "Total",
+      "umbral_magnitude": 1.009,
+      "duration": "03h07m\n00h15m",
+      "region_visibility": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+      "date": "2021 nov 19",
+      "greatest_td": "9:04:06",
+      "type": "Partial",
+      "umbral_magnitude": 974,
+      "duration": "03h28m",
+      "region_visibility": "Americas, n Europe, e Asia, Australia, Pacific"
+    },
+    {
+      "date": "2022 may 16",
+      "greatest_td": "4:12:42",
+      "type": "Total",
+      "umbral_magnitude": 1.414,
+      "duration": "03h27m\n01h25m",
+      "region_visibility": "Americas, Europe, Africa"
+    },
+    {
+      "date": "2022 nov 08",
+      "greatest_td": "11:00:22",
+      "type": "Total",
+      "umbral_magnitude": 1.359,
+      "duration": "03h40m\n01h25m",
+      "region_visibility": "Asia, Australia, Pacific, Americas"
+    },
+    {
+      "date": "2023 may 05",
+      "greatest_td": "17:24:05",
+      "type": "Penumbral",
+      "umbral_magnitude": -46,
+      "duration": "-",
+      "region_visibility": "Africa, Asia, Australia"
+    },
+    {
+      "date": "2023 oct 28",
+      "greatest_td": "20:15:18",
+      "type": "Partial",
+      "umbral_magnitude": 122,
+      "duration": "01h17m",
+      "region_visibility": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+      "date": "2024 mar 25",
+      "greatest_td": "7:13:59",
+      "type": "Penumbral",
+      "umbral_magnitude": -132,
+      "duration": "-",
+      "region_visibility": "Americas"
+    },
+    {
+      "date": "2024 Sep 18",
+      "greatest_td": "2:45:25",
+      "type": "Partial",
+      "umbral_magnitude": 85,
+      "duration": "01h03m",
+      "region_visibility": "Americas, Europe, Africa"
+    },
+    {
+      "date": "2025 mar 14",
+      "greatest_td": "6:59:56",
+      "type": "Total",
+      "umbral_magnitude": 1.178,
+      "duration": "03h38m\n01h05m",
+      "region_visibility": "Pacific, Americas, w Europe, w Africa"
+    },
+    {
+      "date": "2025 Sep 07",
+      "greatest_td": "18:12:58",
+      "type": "Total",
+      "umbral_magnitude": 1.362,
+      "duration": "03h29m\n01h22m",
+      "region_visibility": "Europe, Africa, Asia, Australia"
+    },
+    {
+      "date": "2026 mar 03",
+      "greatest_td": "11:34:52",
+      "type": "Total",
+      "umbral_magnitude": 1.151,
+      "duration": "03h27m\n00h58m",
+      "region_visibility": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+      "date": "2026 Aug 28",
+      "greatest_td": "4:14:04",
+      "type": "Partial",
+      "umbral_magnitude": 930,
+      "duration": "03h18m",
+      "region_visibility": "e Pacific, Americas, Europe, Africa"
+    },
+    {
+      "date": "2027 feb 20",
+      "greatest_td": "23:14:06",
+      "type": "Penumbral",
+      "umbral_magnitude": -57,
+      "duration": "-",
+      "region_visibility": "Americas, Europe, Africa, Asia"
+    },
+    {
+      "date": "2027 jul 18",
+      "greatest_td": "16:04:09",
+      "type": "Penumbral",
+      "umbral_magnitude": -1.068,
+      "duration": "-",
+      "region_visibility": "e Africa, Asia, Australia, Pacific"
+    },
+    {
+      "date": "2027 Aug 17",
+      "greatest_td": "7:14:59",
+      "type": "Penumbral",
+      "umbral_magnitude": -525,
+      "duration": "-",
+      "region_visibility": "Pacific, Americas"
+    },
+    {
+      "date": "2028 Jan 12",
+      "greatest_td": "4:14:13",
+      "type": "Partial",
+      "umbral_magnitude": 66,
+      "duration": "00h56m",
+      "region_visibility": "Americas, Europe, Africa"
+    },
+    {
+      "date": "2028 jul 06",
+      "greatest_td": "18:20:57",
+      "type": "Partial",
+      "umbral_magnitude": 389,
+      "duration": "02h21m",
+      "region_visibility": "Europe, Africa, Asia, Australia"
+    },
+    {
+      "date": "2028 Dec 31",
+      "greatest_td": "16:53:15",
+      "type": "Total",
+      "umbral_magnitude": 1.246,
+      "duration": "03h29m\n01h11m",
+      "region_visibility": "Europe, Africa, Asia, Australia, Pacific"
+    },
+    {
+      "date": "2029 jun 26",
+      "greatest_td": "3:23:22",
+      "type": "Total",
+      "umbral_magnitude": 1.844,
+      "duration": "03h40m\n01h42m",
+      "region_visibility": "Americas, Europe, Africa, Mid East"
+    },
+    {
+      "date": "2029 Dec 20",
+      "greatest_td": "22:43:12",
+      "type": "Total",
+      "umbral_magnitude": 1.117,
+      "duration": "03h33m\n00h54m",
+      "region_visibility": "Americas, Europe, Africa, Asia"
+    },
+    {
+      "date": "2030 jun 15",
+      "greatest_td": "18:34:34",
+      "type": "Partial",
+      "umbral_magnitude": 502,
+      "duration": "02h24m",
+      "region_visibility": "Europe, Africa, Asia, Australia"
+    },
+    {
+      "date": "2030 Dec 09",
+      "greatest_td": "22:28:51",
+      "type": "Penumbral",
+      "umbral_magnitude": -163,
+      "duration": "-",
+      "region_visibility": "Americas, Europe, Africa, Asia"
+    }
+   ]

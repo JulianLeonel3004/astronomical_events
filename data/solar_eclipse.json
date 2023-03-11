@@ -1,0 +1,178 @@
+[
+ {
+   "date": "2021 jun 10",
+   "greatest_td": "10:43:06",
+   "type": "Annular",
+   "magnitude": 943,
+   "central_duration": "03m51s",
+   "region_visibility": "n N. America, Europe, Asia\n[Annular: n Canada, Greenland, Russia]"
+ },
+ {
+   "date": "2021 Dec 04",
+   "greatest_td": "7:34:38",
+   "type": "Total",
+   "magnitude": 1.037,
+   "central_duration": "01m54s",
+   "region_visibility": "Antarctica, S. Africa, s Atlantic\n[Total: Antarctica]"
+ },
+ {
+   "date": "2022 Apr 30",
+   "greatest_td": "20:42:36",
+   "type": "Partial",
+   "magnitude": 640,
+   "central_duration": "-",
+   "region_visibility": "se Pacific, s S. America"
+ },
+ {
+   "date": "2022 oct 25",
+   "greatest_td": "11:01:19",
+   "type": "Partial",
+   "magnitude": 862,
+   "central_duration": "-",
+   "region_visibility": "Europe, ne Africa, Mid East, w Asia"
+ },
+ {
+   "date": "2023 Apr 20",
+   "greatest_td": "4:17:55",
+   "type": "Hybrid",
+   "magnitude": 1.013,
+   "central_duration": "01m16s",
+   "region_visibility": "se Asia, E. Indies, Australia, Philippines. N.Z.\n[Hybrid: Indonesia, Australia, Papua New Guinea]"
+ },
+ {
+   "date": "2023 oct 14",
+   "greatest_td": "18:00:40",
+   "type": "Annular",
+   "magnitude": 952,
+   "central_duration": "05m17s",
+   "region_visibility": "N. America, C. America, S. America\n[Annular: w US, C. America, Colombia, Brazil]"
+ },
+ {
+   "date": "2024 Apr 08",
+   "greatest_td": "18:18:29",
+   "type": "Total",
+   "magnitude": 1.057,
+   "central_duration": "04m28s",
+   "region_visibility": "N. America, C. America\n[Total: Mexico, c US, e Canada]"
+ },
+ {
+   "date": "2024 oct 02",
+   "greatest_td": "18:46:13",
+   "type": "Annular",
+   "magnitude": 933,
+   "central_duration": "07m25s",
+   "region_visibility": "Pacific, s S. America\n[Annular: s Chile, s Argentina]"
+ },
+ {
+   "date": "2025 mar 29",
+   "greatest_td": "10:48:36",
+   "type": "Partial",
+   "magnitude": 938,
+   "central_duration": "-",
+   "region_visibility": "nw Africa, Europe, n Russia"
+ },
+ {
+   "date": "2025 Sep 21",
+   "greatest_td": "19:43:04",
+   "type": "Partial",
+   "magnitude": 855,
+   "central_duration": "-",
+   "region_visibility": "s Pacific, N.Z., Antarctica"
+ },
+ {
+   "date": "2026 feb 17",
+   "greatest_td": "12:13:05",
+   "type": "Annular",
+   "magnitude": 963,
+   "central_duration": "02m20s",
+   "region_visibility": "s Argentina & Chile, s Africa, Antarctica\n[Annular: Antarctica]"
+ },
+ {
+   "date": "2026 Aug 12",
+   "greatest_td": "17:47:05",
+   "type": "Total",
+   "magnitude": 1.039,
+   "central_duration": "02m18s",
+   "region_visibility": "n N. America, w Africa, Europe\n[Total: Arctic, Greenland, Iceland, Spain]"
+ },
+ {
+   "date": "2027 feb 06",
+   "greatest_td": "16:00:47",
+   "type": "Annular",
+   "magnitude": 928,
+   "central_duration": "07m51s",
+   "region_visibility": "S. America, Antarctica, w & s Africa\n[Annular: Chile, Argentina, Atlantic]"
+ },
+ {
+   "date": "2027 Aug 02",
+   "greatest_td": "10:07:49",
+   "type": "Total",
+   "magnitude": 1.079,
+   "central_duration": "06m23s",
+   "region_visibility": "Africa, Europe, Mid East, w & s Asia\n[Total:Morocco, Spain, Algeria, Libya, Egypt, Saudi Arabia, Yemen, Somalia]"
+ },
+ {
+   "date": "2028 Jan 26",
+   "greatest_td": "15:08:58",
+   "type": "Annular",
+   "magnitude": 921,
+   "central_duration": "10m27s",
+   "region_visibility": "e N. America, C. & S. America, w Europe, nw Africa\n[Annular: Ecuador, Peru, Brazil, Suriname, Spain, Portugal]"
+ },
+ {
+   "date": "2028 jul 22",
+   "greatest_td": "2:56:39",
+   "type": "Total",
+   "magnitude": 1.056,
+   "central_duration": "05m10s",
+   "region_visibility": "SE Asia, E. Indies, Australia, N.Z.\n[Total: Australia, N. Z.]"
+ },
+ {
+   "date": "2029 Jan 14",
+   "greatest_td": "17:13:47",
+   "type": "Partial",
+   "magnitude": 871,
+   "central_duration": "-",
+   "region_visibility": "N. America, C. America"
+ },
+ {
+   "date": "2029 jun 12",
+   "greatest_td": "4:06:13",
+   "type": "Partial",
+   "magnitude": 458,
+   "central_duration": "-",
+   "region_visibility": "Arctic, Scandanavia, Alaska, n Asia, n Canada"
+ },
+ {
+   "date": "2029 jul 11",
+   "greatest_td": "15:37:18",
+   "type": "Partial",
+   "magnitude": 230,
+   "central_duration": "-",
+   "region_visibility": "s Chile, s Argentina"
+ },
+ {
+   "date": "2029 Dec 05",
+   "greatest_td": "15:03:57",
+   "type": "Partial",
+   "magnitude": 891,
+   "central_duration": "-",
+   "region_visibility": "s Argentina, s Chile, Antarctica"
+ },
+ {
+   "date": "2030 jun 01",
+   "greatest_td": "6:29:13",
+   "type": "Annular",
+   "magnitude": 944,
+   "central_duration": "05m21s",
+   "region_visibility": "Europe, n Africa, Mid East, Asia, Arctic, Alaska\n[Annular: Algeria, Tunisia, Greece, Turkey, Russia, n. China, Japan]"
+ },
+ {
+   "date": "2030 nov 25",
+   "greatest_td": "6:51:37",
+   "type": "Total",
+   "magnitude": 1.047,
+   "central_duration": "03m44s",
+   "region_visibility": "s Africa, s Indian Oc., E. Indies, Australia, Antarctica\n[Total: Botswana, S. Africa, Australia"
+ }
+]
