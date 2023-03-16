@@ -1,0 +1,15 @@
+{
+  "name": "astronomical-events",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JulianLeonel3004/astronomical_events.git",
+  "author": "Julian <julian.leonel3004@gmaio.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
