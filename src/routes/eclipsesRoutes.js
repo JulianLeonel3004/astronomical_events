@@ -1,5 +1,5 @@
 const bodyParser = require("body-parser");
-const getLunarElipseUseCase = require("../../usecases/eclipses/getLunarEclipsesUseCase");
+const getLunarElipseUseCase = require("../usecases/eclipses/getLunarEclipsesUseCase");
 
 const appRouter = (app) => {
   app.use(bodyParser.json()); // support json encoded bodies
