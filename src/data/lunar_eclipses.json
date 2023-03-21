@@ -56,7 +56,7 @@
       "region_visibility": "Americas"
     },
     {
-      "date": "2024 Sep 18",
+      "date": "2024 sep 18",
       "greatest_td": "2:45:25",
       "type": "Partial",
       "umbral_magnitude": 85,
@@ -72,7 +72,7 @@
       "region_visibility": "Pacific, Americas, w Europe, w Africa"
     },
     {
-      "date": "2025 Sep 07",
+      "date": "2025 sep 07",
       "greatest_td": "18:12:58",
       "type": "Total",
       "umbral_magnitude": 1.362,
@@ -88,7 +88,7 @@
       "region_visibility": "e Asia, Australia, Pacific, Americas"
     },
     {
-      "date": "2026 Aug 28",
+      "date": "2026 aug 28",
       "greatest_td": "4:14:04",
       "type": "Partial",
       "umbral_magnitude": 930,
@@ -112,7 +112,7 @@
       "region_visibility": "e Africa, Asia, Australia, Pacific"
     },
     {
-      "date": "2027 Aug 17",
+      "date": "2027 aug 17",
       "greatest_td": "7:14:59",
       "type": "Penumbral",
       "umbral_magnitude": -525,
@@ -120,7 +120,7 @@
       "region_visibility": "Pacific, Americas"
     },
     {
-      "date": "2028 Jan 12",
+      "date": "2028 jan 12",
       "greatest_td": "4:14:13",
       "type": "Partial",
       "umbral_magnitude": 66,
@@ -136,7 +136,7 @@
       "region_visibility": "Europe, Africa, Asia, Australia"
     },
     {
-      "date": "2028 Dec 31",
+      "date": "2028 dec 31",
       "greatest_td": "16:53:15",
       "type": "Total",
       "umbral_magnitude": 1.246,
@@ -152,7 +152,7 @@
       "region_visibility": "Americas, Europe, Africa, Mid East"
     },
     {
-      "date": "2029 Dec 20",
+      "date": "2029 dec 20",
       "greatest_td": "22:43:12",
       "type": "Total",
       "umbral_magnitude": 1.117,
@@ -168,7 +168,7 @@
       "region_visibility": "Europe, Africa, Asia, Australia"
     },
     {
-      "date": "2030 Dec 09",
+      "date": "2030 dec 09",
       "greatest_td": "22:28:51",
       "type": "Penumbral",
       "umbral_magnitude": -163,

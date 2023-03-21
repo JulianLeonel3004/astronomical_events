@@ -1,7 +1,7 @@
-const lunarEclipseRepostiry = require('../../repository/lunarEclipsesRepository')
+const LUNAR_ADAPTER =  require('../../repository/lunarEclipsesAdapter')
 
 const execute = (date, region) => {
-    return lunarEclipseRepostiry.get(date, region)
+    return LUNAR_ADAPTER.get(date, region)
 }
 
 const getLunarElipseUseCase = {

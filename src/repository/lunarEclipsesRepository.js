@@ -22,7 +22,6 @@ const filter = (eclipses, date, region) => {
     : eclipses
 }
 
-
 //METHOD GET
 const GET = (dateFilter, regionFilter) => {
     return filter(LUNAR_ECLIPSES, dateFilter, regionFilter)
