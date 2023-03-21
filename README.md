@@ -16,22 +16,22 @@ Query params available:
 ---------------------------
 `?region=americas`
 
-`?date=2028 Dec 31`
+`?date=2028-12-31`
 
  - The date need to be exact
  
  - Posibble regions (not case sensitive):
       Asia, Australia, Pacific, Europe, Africa, Americas, Mid East
 
-This feature does not support concatenated regions, but allow use both queryparams for example: `?region=america&date=2021 may 26`
+This feature does not support concatenated regions, but allow use both queryparams for example: `?region=america&date=2021-05-26`
 
 Example of GET
 
-`https://astronomical-events.up.railway.app/lunareclipses?region=america&date=2021 may 26`
+`https://astronomical-events.up.railway.app/lunareclipses?region=america&date=2021-05-26`
 
 `https://astronomical-events.up.railway.app/lunareclipses?region=america`
 
-`https://astronomical-events.up.railway.app/lunareclipses?date=2021 may 26`
+`https://astronomical-events.up.railway.app/lunareclipses?date=2021-05-26`
 
 
 # Locally run
